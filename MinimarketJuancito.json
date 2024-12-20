@@ -1,0 +1,44 @@
+[
+    {
+      "marca": "Inca Kola",
+      "empresa": "Corporación Lindley S.A.",
+      "ruc": "20100120204",
+      "correo": "contacto@lindley.pe",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoxwit4bQKiUYwpZNeN9vB4KJtzHiJ73EIg&s"
+    },
+    {
+      "marca": "Cristal",
+      "empresa": "Unión de Cervecerías Peruanas Backus y Johnston S.A.A.",
+      "ruc": "20100194391",
+      "correo": "atencionclientes@backus.com.pe",
+      "logo": "https://seeklogo.com/images/C/cerveza-cristal-logo-6F77AC4F92-seeklogo.com.png"
+    },
+    {
+      "marca": "Cielo",
+      "empresa": "Corporación Lindley S.A.",
+      "ruc": "20100120204",
+      "correo": "contacto@lindley.pe",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcsPfq-amz0Tb8r7Cir5EM5rTMIgJh06VaPsDlZb5p3aw-hZOmz-s4jDGbkEaagYj-D4&usqp=CAU"
+    },
+    {
+      "marca": "Pilsen Callao",
+      "empresa": "Unión de Cervecerías Peruanas Backus y Johnston S.A.A.",
+      "ruc": "20100194391",
+      "correo": "atencionclientes@backus.com.pe",
+      "logo": "https://images.seeklogo.com/logo-png/54/1/pilsen-callao-logo-png_seeklogo-546310.png?v=638685620970000000"
+    },
+    {
+      "marca": "Frugos del Valle",
+      "empresa": "Coca-Cola Servicios de Perú S.A.",
+      "ruc": "20376336614",
+      "correo": "info@cocacolaperu.pe",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d1/Frugos_2010.png/revision/latest?cb=20240318114146&path-prefix=es"
+    },
+    {
+      "marca": "San Mateo",
+      "empresa": "San Miguel Industrias Pet S.A.",
+      "ruc": "20100545610",
+      "correo": "clientes@sanmateo.pe",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Y4MZ36YUa-kgt7x2vUgHVl6RSTsqR1JCgA&s"
+    }
+]
