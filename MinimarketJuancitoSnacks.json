@@ -1,0 +1,44 @@
+[
+  {
+    "marca": "Tiyapuy",
+    "empresa": "Tiyapuy S.A.",
+    "ruc": "20598765432",
+    "correo": "contacto@tiyapuy.pe",
+    "logo": "https://tiyapuy.pe/cdn/shop/products/papas-nativas-mixtas-fritas-con-sal-de-maras-40-gr-794386.webp?v=1697124624&width=720"
+  },
+  {
+    "marca": "Chifles San Jorge",
+    "empresa": "San Jorge S.A.",
+    "ruc": "20123456789",
+    "correo": "info@sanjorge.pe",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWC1RcUWY6BMbfEvM27_PADA2EVzLudtwbg&s"
+  },
+  {
+    "marca": "Papas Lays",
+    "empresa": "Frito Lay Perú S.A.",
+    "ruc": "20410626328",
+    "correo": "contacto@fritolay.pe",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lay%27s_logo_2019.svg/1200px-Lay%27s_logo_2019.svg.png"
+  },
+  {
+    "marca": "Inka Chips",
+    "empresa": "Inka Foods S.A.C.",
+    "ruc": "20567812345",
+    "correo": "contacto@inkafoods.pe",
+    "logo": "https://d13xymm0hzzbsd.cloudfront.net/1/20220520/16530824271434.webp"
+  },
+  {
+    "marca": "Cheetos",
+    "empresa": "Frito Lay Perú S.A.",
+    "ruc": "20410626328",
+    "correo": "contacto@fritolay.pe",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikbvAvzwyebduQ6BZ_pWnbbQP7TP88QmYUw&s"
+  },
+  {
+    "marca": "Takis",
+    "empresa": "Barcel Perú S.A.",
+    "ruc": "20543212345",
+    "correo": "contacto@barcel.com.pe",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Takis_logo.png/revision/latest?cb=20240424002352&path-prefix=es"
+  }
+]
